@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👯 I’m looking to collaborate on **lll of AI projects**
+- 👯 I’m looking to collaborate on **all of AI projects**
 
 - 📫 How to reach me **hoanglv2824@gmail.com**
 
