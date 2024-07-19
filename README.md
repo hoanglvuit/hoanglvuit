@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning, Deep Learning**
+- 🌱 I’m currently learning **Computer Science**
 
-- 👯 I’m looking to collaborate on **All of AI projects**
+- 👯 I’m looking to collaborate on **lll of AI projects**
 
 - 📫 How to reach me **hoanglv2824@gmail.com**
 
