@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Le Hoang</h1>
 <h3 align="center">A CS student from the University of Information Technology</h3>
-img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhtNWo0NTR4amg0OXlkMW8xcnl5ZjBzdmk1em51ODJ5YXYzYWc5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhtNWo0NTR4amg0OXlkMW8xcnl5ZjBzdmk1em51ODJ5YXYzYWc5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanglvuit&label=Profile%20views&color=0e75b6&style=flat" alt="hoanglvuit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
